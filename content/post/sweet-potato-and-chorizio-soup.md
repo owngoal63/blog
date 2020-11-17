@@ -3,6 +3,7 @@ title: "Sweet Potato and Chorizio Soup"
 date: 2020-11-16T22:03:45Z
 draft: false
 image: "uploads/soup.jpg"
+tags: ["recipies"]
 ---
 
 #### Ingredients
