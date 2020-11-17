@@ -1,6 +1,6 @@
-baseurl         = ""
+baseurl         = "https://lucid-bartik-6de077.netlify.app/"
 theme           = "casper-two"
-languageCode    = "en-gb"
+languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
