@@ -58,7 +58,7 @@ hugo new post/this-is-my-post.md
 ```
 
 ### Watchout
-Change the baseurl setting in config.toml to "" (blank)
+Change the baseurl setting in config.toml to be the base address of your hosting 
 
 ###### End 
 
