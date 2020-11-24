@@ -3,7 +3,7 @@ title: Mary Berry Custard
 date: 2020-11-24T16:20:10.974Z
 draft: false
 tags:
-  - recipe
+  - recipes
 ---
 #### Ingredients
 - Pint of Milk
