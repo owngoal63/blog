@@ -5,3 +5,16 @@ backend:
 media_folder: "static/uploads"
 public_folder: "uploads"
 
+collections:
+  - name: "recipe"
+    label: "Recipe" 
+    folder: "content/recipe"
+    create: true
+    slug: "{{year}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Header Image", name: image, widget: image, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
