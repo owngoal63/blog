@@ -3,7 +3,7 @@ title: "Hugo Install and Start Project"
 date: 2020-11-16T20:22:55Z
 draft: false
 image: "uploads/computer_screens.jpg"
-tags: ["tech"]
+tags: ["technical"]
 ---
 
 

@@ -3,7 +3,7 @@ title: "Git Initialisation With Vscode Project"
 date: 2020-11-17T09:32:03Z
 draft: false
 image: "uploads/github_computer.jpg"
-tags: ["tech"]
+tags: ["technical"]
 ---
 
 #### Instructions

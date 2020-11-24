@@ -56,8 +56,8 @@ canonifyurls    = true
   weight = 100
 
 [[menu.main]]
-  name = "Tech"
-  url = "/tags/tech/"
+  name = "Technical"
+  url = "/tags/technical/"
   weight = 99
 
 [[menu.main]]
