@@ -4,6 +4,7 @@ date: 2020-11-24T16:20:10.974Z
 draft: false
 tags:
   - recipes
+image: uploads/maryberry.png
 ---
 #### Ingredients
 - Pint of Milk
