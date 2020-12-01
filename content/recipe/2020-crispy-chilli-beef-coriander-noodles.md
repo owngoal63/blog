@@ -4,6 +4,7 @@ date: 2020-12-01T11:15:20.065Z
 draft: false
 tags:
   - recipes
+image: uploads/asian-cuisine.jpg
 ---
 #### Ingredients
 
