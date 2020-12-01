@@ -3,7 +3,7 @@ title: Bacon Red PestoTortiglioni
 date: 2020-12-01T11:07:45.582Z
 draft: false
 tags:
-  - Recipe
+  - recipes
 image: uploads/bacon.jpg
 ---
 
