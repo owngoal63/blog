@@ -4,6 +4,7 @@ date: 2020-12-01T11:07:45.582Z
 draft: false
 tags:
   - Recipe
+image: uploads/bacon.jpg
 ---
 
 
