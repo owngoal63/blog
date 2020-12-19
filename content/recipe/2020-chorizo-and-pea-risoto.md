@@ -4,6 +4,7 @@ date: 2020-12-19T20:31:35.488Z
 draft: true
 tags:
   - recipes
+image: uploads/sausage.jpg
 ---
 #### Ingredients
 - Peas
